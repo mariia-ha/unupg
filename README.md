@@ -27,7 +27,8 @@ The **Uncommon User Password Generator** is a tool designed to create random, st
    ```bash
    cd unupg
    ```
-3. Install dependencies:
+3. Use ```poetry shell```
+4. Install dependencies:
 
    ```bash
    poetry install
