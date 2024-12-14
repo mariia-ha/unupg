@@ -30,7 +30,7 @@ The **Uncommon User Password Generator** is a tool designed to create random, st
 3. Install dependencies:
 
    ```bash
-    poetry install
+   poetry install
    ```
 
 ---
@@ -40,7 +40,7 @@ The **Uncommon User Password Generator** is a tool designed to create random, st
 Run the application using:
 
 ```bash
-    poetry run python3 main.py
+poetry run python3 main.py
 ```
 
 ### Workflow
